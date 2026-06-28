@@ -33,13 +33,13 @@ ResFlow-Tuner introduces a pioneering **Test-Time Scaling (TTS)** paradigm for f
 
 ## 👁️ Visual Results
 
-*(TODO: Add a grid of visual comparisons here. Show your Best Results, especially the Old Photos restoration and comparisons with SUPIR / DiT4SR)*
+![**ResFlow-Tuner** delivers superior performance on both synthetic (the first row) and real-world (the second row) benchmarks, excelling in terms of perceptual quality and objective image quality assessment.](assets/Figure_1.png)
 
 <details>
 <summary>Click to see more visual comparisons</summary>
 <p align="center">
   <!-- TODO: Update image path when assets are uploaded -->
-  <img src="assets/comparison1.png" width="800">
+  <img src="assets/Figure_3.png" width="800">
 </p>
 </details>
 
